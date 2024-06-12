@@ -1,4 +1,4 @@
-KSPReentryEnhancer/
+ReentryEnhancer/
 │
 ├── KSPReentryEnhancer.csproj
 ├── ReentryEnhancer.cs
