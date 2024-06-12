@@ -1,0 +1,10 @@
+KSPReentryEnhancer/
+│
+├── KSPReentryEnhancer.csproj
+├── ReentryEnhancer.cs
+├── EffectBehaviour.cs
+├── ReentryEnhancer.cfg
+├── Shaders/
+│   └── ReentryHeat.shader
+└── Resources/
+    └── ReentrySound.ogg
